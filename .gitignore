@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python / IDE cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Machine Learning weights, datasets, and large logs
+*.pt
+*.pth
+*.bin
+*.npz
+*.npy
+*.png
+*.txt
+*.json
+data/
+my_assessment/
